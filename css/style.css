@@ -603,6 +603,7 @@ img{
   width: 240px;
   height: 151px;
   margin: 0px;
+  z-index: 0!important;
 }
 
 

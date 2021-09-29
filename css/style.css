@@ -315,30 +315,28 @@ img{
 }
 
 .arrum-ornamen img{
-  margin-top: 20px;
+  padding-bottom: 20px;
   width: 70px ;
 }
 
 .arrum-box{
   position: absolute;
-  top: 70px;
+  top: 55px;
 }
 
 .arrum-box img{
   width: 95vw;
-  height: 260px;
-
+  height: 300px;
 }
 
 .content-isra{ 
   width: 100vw;
-  height: max-content;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 35px 0;
 }
 
 .content-isra p{
@@ -377,7 +375,7 @@ img{
 .devy-name{
   width: 100vw;
   display: flex;
-  justify-content: end;
+  justify-content: end!important;
 }
 
 .devy-name img{
@@ -388,7 +386,7 @@ img{
 .anthony-photo{
   width: 100vw;
   display: flex;
-  justify-content: end;
+  justify-content: end!important;
 }
 
 .anthony-photo img{

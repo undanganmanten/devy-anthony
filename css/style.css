@@ -375,7 +375,7 @@ img{
 .devy-name{
   width: 100vw;
   display: flex;
-  justify-content: end!important;
+  justify-content: space-between;
 }
 
 .devy-name img{
@@ -386,7 +386,7 @@ img{
 .anthony-photo{
   width: 100vw;
   display: flex;
-  justify-content: end!important;
+  justify-content: space-between;
 }
 
 .anthony-photo img{
